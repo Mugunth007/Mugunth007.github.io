@@ -94,7 +94,7 @@ const Sidebar = () => {
                 data-aos="fade-right"
                 data-aos-duration="1100"
                 className=" w-full md:p-3 flex flex-col items-center justify-center focus:outline-none"
-                href="https://mail.google.com/mail/?view=cm&to=pranjayvats22062001@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&to=Mugunthking491@gmail.com"
               >
                 <img
                   loading="lazy"
@@ -110,7 +110,7 @@ const Sidebar = () => {
                 data-aos="fade-right"
                 data-aos-duration="1200"
                 className="md:p-3 w-full flex flex-col items-center justify-center focus:outline-none"
-                href="https://www.linkedin.com/in/pranjay-vats-4bb250205/"
+                href="https://www.linkedin.com/in/mugunth-perumal/"
               >
                 <img
                   loading="lazy"
@@ -126,7 +126,7 @@ const Sidebar = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
                 className="md:p-3 w-full flex flex-col items-center justify-center focus:outline-none "
-                href="https://github.com/PranjayVats"
+                href="https://github.com/Mugunth007"
               >
                 <img
                   loading="lazy"
@@ -142,7 +142,7 @@ const Sidebar = () => {
                 data-aos="fade-right"
                 data-aos-duration="1400"
                 className="md:p-3 w-full flex flex-col items-center justify-center focus:outline-none"
-                href="https://www.instagram.com/vatspranjay.2206/"
+                href="https://www.instagram.com/mugunth_king/"
               >
                 <img
                   loading="lazy"
