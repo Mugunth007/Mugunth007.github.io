@@ -176,7 +176,7 @@ const Education = () => {
                           CGPA :
                         </p>
                         <p className="font-google text-2xl">
-                          8.22(till 5th semester)
+                          8.33(till 6th semester)
                         </p>
                       </span>
                     </div>
